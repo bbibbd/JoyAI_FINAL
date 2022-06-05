@@ -19,11 +19,6 @@
 * 시뮬레이터 다운로드 링크 [Windows](https://s3-us-west-1.amazonaws.com/udacity-selfdrivingcar/Term1-Sim/term1-simulator-windows.zip) / [Mac](https://s3-us-west-1.amazonaws.com/udacity-selfdrivingcar/Term1-Sim/term1-simulator-mac.zip) / [Linux](https://s3-us-west-1.amazonaws.com/udacity-selfdrivingcar/Term1-Sim/term1-simulator-windows.zip)
 * [Audi A2D2 Dataset](https://www.a2d2.audi/a2d2/en.html)
 * [동영상발표 링크_추가예정]()
-* usage: main.py [-h] [--dataroot DATAROOT] [--ckptroot CKPTROOT] [--lr LR]
-               [--weight_decay WEIGHT_DECAY] [--batch_size BATCH_SIZE]
-               [--num_workers NUM_WORKERS] [--train_size TRAIN_SIZE]
-               [--shuffle SHUFFLE] [--epochs EPOCHS]
-               [--start_epoch START_EPOCH] [--resume RESUME]
-               [--model_name MODEL_NAME]
 
 ## Usage
+* 기본적인 사용법 및 argument들은 다음과 같습니다.
