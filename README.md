@@ -12,7 +12,8 @@
 
 ## 원본 소스코드 링크
 * 모인활 프로젝트 진행하면서 수정하기 전 원본 코드 출처입니다.
-* [바로가기_클릭](https://github.com/Zhenye-Na/e2e-learning-self-driving-cars)
+* 발표자료를 보면서 따라하실분들은 원본 코드 말고 이 페이지에서 코드를 다운로드 하셔서 실행하셔야 합니다.
+* [바로가기](https://github.com/Zhenye-Na/e2e-learning-self-driving-cars)
 
 ## 기타 자료 링크
 * [모인활 End TO End Driving 설치 및 실행 매뉴얼](https://docs.google.com/document/d/1DgSWTMIb2Inw2ieUT4Eole1-8TkLoTGepQfHu_LNIB0/edit) - 한동계정 로그인 필수
